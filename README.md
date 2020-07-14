@@ -1,16 +1,21 @@
-### Hi there 👋
+<h2> Fala galera <𝚌𝚘𝚍𝚎𝚛/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**DheCastro/DheCastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-dhellanocastro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhellanocastro/)](https://www.linkedin.com/in/dhellanocastro/) [![Gmail Badge](https://img.shields.io/badge/-dhecastro90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhecastro90@gmail.com)](mailto:dhecastro90@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@DheCastro90-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DheCastro90)](https://twitter.com/DheCastro90) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá, me chamo Dhellano de Castro 😃. Eu sou de Fortaleza-CE, graduado em automação e controle e pós-graduado em arquitetura de softwares. Tenho como hobby profissional explorar e usar novas tecnologias.
+## ⚡ Tecnologias
+- Desenvolvimento back-end com **Java (Mais fortemente Spring Framework)**
+- Desenvolvimento front-end com **HTML, Javascript,CSS,Bootstrap**
+- Usando **Sistemas de Gerenciamento de Bancos de Dados Relacionais**
+- Desenvolvimento focado em arquitetura e escalabilidade
+- Desenvolvimento mobile com **Flutter e Kotlin**(Aprendendo)
+- Conhecimento em plataformas de cloud **Firebase e AWS**
+- Entusiasta e estudando DevOps com **Docker, Jenkins e Kubernetes**
+## Hello World!! 🤔
+- 💬 Quer conversar sobre tecnologia ou qualquer outro assunto? Os contatos estão no site aí embaixo.
+- 🎯 Site: [www.dhecastro.com.br](http://www.dhecastro.com.br)
+- ⚡ Curiosidade: O número 14233221 é auto-descritivo, possui um quatro, dois três, três dois e dois uns.
+
+```⭐️ From [DheCastro](https://github.com/DheCastro)```
