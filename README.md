@@ -18,4 +18,10 @@ Olá, me chamo Dhellano de Castro 😃. Eu sou de Fortaleza-CE, graduado em auto
 - 🎯 Site: [www.dhecastro.com.br](http://www.dhecastro.com.br)
 - ⚡ Curiosidade: O número 14233221 é auto-descritivo, possui um quatro, dois três, três dois e dois uns.
 
+<div>
+  <a href="https://github.com/liliannss">
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=DheCastro&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheCastro&layout=compact&langs_count=7&theme=react" />
+</div>
+
 ```⭐️ From [DheCastro](https://github.com/DheCastro)```
